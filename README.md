@@ -1,34 +1,4 @@
 
-    ```
-4.  **Upload:** Open the `.ino` file and upload it to your ESP32.
-
----
-
-## 📊 CSV Export Logic
-The system records the **UID** of the RFID tag along with a **Timestamp**. The data is formatted as:
-`ID, Date, Time, Status`
-
-You can retrieve the CSV file via:
-*   [ ] Serial Monitor data dump.
-*   [ ] SD Card Module (if added).
-*   [ ] Web Server interface (built-in ESP32).
-
----
-
-## 📸 Screenshots / Demo
-*(Add your project photos or a GIF here!)*
-> [!TIP]
-> Drag and drop an image of your physical build here to make the README pop!
-
----
-
-## 🤝 Contributing
-ContributionsThis is a solid hardware stack for an attendance system. A great README should be clear, visual, and make it easy for others to replicate your work.
-
-Here is a structured template you can copy and paste directly into your `README.md` file.
-
----
-
 # 📝 ESP32 RFID Attendance System with CSV Export
 
 An IoT-based attendance logging system using the **ESP32**, **RC522 RFID module**, and local data management. This system scans RFID tags, displays user info on a **16x2 LCD**, and provides audio-visual feedback via a **Buzzer** and **LEDs**.
