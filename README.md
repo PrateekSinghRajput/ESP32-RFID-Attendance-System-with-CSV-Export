@@ -47,7 +47,7 @@ An IoT-based attendance logging system using the **ESP32**, **RC522 RFID module*
     *   `SPI.h`
 3.  **Clone the Repo:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/ESP32-RFID-Attendance-System.git](https://github.com/PrateekSinghRajput/ESP32-RFID-Attendance-System-with-CSV-Export
+     https://github.com/PrateekSinghRajput/ESP32-RFID-Attendance-System-with-CSV-Export
     ```
 4.  **Upload:** Open the `.ino` file and upload it to your ESP32.
 
