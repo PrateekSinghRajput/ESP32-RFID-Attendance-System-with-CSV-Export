@@ -26,14 +26,14 @@ An IoT-based attendance logging system using the **ESP32**, **RC522 RFID module*
 ## 🖇️ Circuit Connection
 | Component | ESP32 Pin |
 | :--- | :--- |
-| **RC522 SDA** | GPIO 21 (or VSPI SS) |
+| **RC522 SDA** | GPIO 02 |
 | **RC522 SCK** | GPIO 18 |
 | **RC522 MOSI** | GPIO 23 |
 | **RC522 MISO** | GPIO 19 |
-| **RC522 RST** | GPIO 22 |
+| **RC522 RST** | GPIO 15 |
 | **LCD SCL** | GPIO 22 |
 | **LCD SDA** | GPIO 21 |
-| **Buzzer** | GPIO 25 |
+| **Buzzer** | GPIO 14 |
 | **Green LED** | GPIO 26 |
 | **Red LED** | GPIO 27 |
 
