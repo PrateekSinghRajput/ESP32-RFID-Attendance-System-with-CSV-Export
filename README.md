@@ -65,9 +65,6 @@ You can retrieve the CSV file via:
 ---
 
 ## 📸 Screenshots / Demo
-*(Add your project photos or a GIF here!)*
-> [!TIP]
-> Drag and drop an image of your physical build here to make the README pop!
 
 ---
 
