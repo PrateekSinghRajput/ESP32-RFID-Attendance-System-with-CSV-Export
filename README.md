@@ -68,9 +68,6 @@ You can retrieve the CSV file via:
 
 ---
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR_USERNAME/ESP32-RFID-Attendance-System/issues).
-
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
