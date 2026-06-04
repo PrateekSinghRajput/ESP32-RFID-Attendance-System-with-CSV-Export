@@ -3,6 +3,9 @@
 
 An IoT-based attendance logging system using the **ESP32**, **RC522 RFID module**, and local data management. This system scans RFID tags, displays user info on a **16x2 LCD**, and provides audio-visual feedback via a **Buzzer** and **LEDs**.
 
+<img width="1376" height="768" alt="ESP32" src="https://github.com/user-attachments/assets/200fe90f-44ee-43ad-ae25-884e24ebfba0" />
+
+
 
 
 ## 🚀 Features
